@@ -1,5 +1,7 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+google-services.json
+advertall-696ac-firebase-adminsdk-3vkxo-e31bb54173.json
 # dependencies
 node_modules/
 
